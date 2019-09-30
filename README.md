@@ -1,1 +1,1 @@
-# 2016_08_18_Pythagorean
+# 2016-08-18_Pythagorean
